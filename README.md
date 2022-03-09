@@ -25,7 +25,7 @@ In homework 2, we participate SVHN detection competition on [Codalab](https://co
 [[report](https://github.com/Jia-Wei-Liao/SVHN_Dataset_Detection/blob/main/report.pdf)]
 
 ## Nuclei Instance Segmentation
-In homework 3, we participate nuclei segmentation competition on [Codalab](https://competitions.codalab.org/competitions/35888?secret_key=7e3231e6-358b-4f06-a528-0e3c8f9e328e). This challenge provided 24 training images with 14,598 nuclei and 6 test images with 2,360 nuclei for instance segmentation. We rank 8st out of 84 participants at the end. The following table display our scores on the Codalab leaderboard.
+In homework 3, we participate nuclei segmentation competition on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/333?secret_key=3b31d945-289d-4da6-939d-39435b506ee5). This challenge provided 24 training images with 14,598 nuclei and 6 test images with 2,360 nuclei for instance segmentation. We rank 8st out of 84 participants at the end. The following table display our scores on the Codalab leaderboard.
 
 | method       | backbone      | mAP       |
 | ------------ | ------------- | --------- |
