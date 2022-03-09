@@ -1,5 +1,5 @@
 # Selected Topics in Visual Recognition using Deep Learning
-This repository is implementation of the homework and final project for IOC5008 Selected Topics in Visual Recognition using Deep Learning course in 2021 Fall semester at National Yang Ming Chiao Tung University.
+This repository is implementation of homeworks and final project for IOC5008 Selected Topics in Visual Recognition using Deep Learning course in 2021 Fall semester at National Yang Ming Chiao Tung University.
 
 ## Caltech-UCSD Birds-200-2011 Classification
 In homework 1, we participate a bird classification competition on [Codalab](https://competitions.codalab.org/competitions/35668?secret_key=09789b13-35ec-4928-ac0f-6c86631dda07). This challenge provided 3,000 training images and 3,033 test images for the fine-grained classification. We rank 21st out of 100 participants at the end. The following table display our scores on the Codalab leaderboard.
