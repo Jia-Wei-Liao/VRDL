@@ -35,7 +35,7 @@ In homework 3, we participate nuclei segmentation competition on [Codalab](https
 | Mask R-CNN   | ResNet-101-C4 | 0.242977  |
 | Mask R-CNN   | ResNet-101-FPN| 0.241530  |
 
-[[code](https://codalab.lisn.upsaclay.fr/competitions/333?secret_key=3b31d945-289d-4da6-939d-39435b506ee5)]
+[[code](https://github.com/Jia-Wei-Liao/Nuclei_Dataset_Segmentation)]
 [[report](https://github.com/Jia-Wei-Liao/Nuclei_Dataset_Segmentation/blob/main/report.pdf)]
 
 ## Set14 Super Resolution
