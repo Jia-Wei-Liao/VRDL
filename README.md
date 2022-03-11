@@ -50,7 +50,7 @@ In homework 4, we participate super-resolution competition on [Codalab](https://
 [[code](https://github.com/Jia-Wei-Liao/Set14_Dataset_Super-Resolution)]
 [[report](https://github.com/Jia-Wei-Liao/Set14_Dataset_Super-Resolution/blob/main/report.pdf)]
 
-## Ultrasound_Nerve_Segmentation
+## Ultrasound Nerve Segmentation
 In the final project, we participate ultrasound nerve segmentation competition on [Kaggle](https://www.kaggle.com/c/ultrasound-nerve-segmentation). This challenge provided 5,635 training images and 5,508 test images for semantic segmentation. We rank 7st out of 924 participants at the end. The following table display our scores on Kaggle.
 
 | method       | backbone        | private score |
