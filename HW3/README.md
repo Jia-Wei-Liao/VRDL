@@ -1,4 +1,4 @@
-# Nuclei_Dataset_Segmentation
+# Nuclei Instance Segmentation
 
 
 ##  Introduction of nuclear dataset
