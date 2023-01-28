@@ -1,4 +1,4 @@
-# CUB 200 2011 Classification
+# Caltech-UCSD Birds-200-2011 Classification
 
 In this homework, we implement the deep learning method to classify the birds images.
 To avoid over-fitting, we use many augmentation to increase our training data. Then
