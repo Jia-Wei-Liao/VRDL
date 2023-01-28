@@ -1,4 +1,4 @@
-# Set14_Dataset_Super-Resolution
+# Set14 Super-Resolution
 
 
 ## Introduction of dataset
