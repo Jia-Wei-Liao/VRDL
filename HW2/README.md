@@ -1,4 +1,4 @@
-# SVHN Dataset Detection
+# Street View House Numbers Detection
 
 
 In this homework, we implement the deep learning method to detect the digits images.First, we use detection package to construct Faster R-CNN model [3]. After the hyper-parameter tuning, we obtain a testing mAP of 0.389141. It’s not far from the baseline, but we can’t beat it. So, in order to beat the baseline, we implement the YOLOv4 model[4]. We refer to the code on the github and write the data processing, submission codeby ourselves. Finally, we exceed the baseline and get the test mAP of 0.41987.
