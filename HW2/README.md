@@ -147,7 +147,7 @@ Faster-RCNN and YOLOv4 achieve the following performance:
 | speed on K80  GPU (img/s) | X           | 0.13696  |
 
 You can open our Google Colab on this link:  
-<https://github.com/Jia-Wei-Liao/Visual_Recognition_using_Deep_Learning/blob/main/HW2/inference.ipynb>
+<https://github.com/Jia-Wei-Liao/VRDL/blob/main/HW2/inference.ipynb>
 
 
 ## Reference
