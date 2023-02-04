@@ -37,7 +37,7 @@ prediction which generate by five fold model and voting them.
 
 ## Download Dataset
 Run the commend:
-`bash download_data.sh`
+```bash download_data.sh```
 
 
 ## Training
@@ -51,7 +51,7 @@ There are two step that you need to notice.
 
 **Step 1.**
 Run the commend to download the all pretrain model:
-`bash download_checkpoint.sh`
+```bash download_checkpoint.sh```
 
 **Step 2.** 
 Open the `main02_ensemble.py` and modify `params.file_root` by your file root.
