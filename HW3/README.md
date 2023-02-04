@@ -10,13 +10,6 @@ The submission of format should follow by COCO results which include image\_id, 
 In addition, the segmentation result should be the RLE encoded format.
 
 
-## Getting the code
-You can download all the files in this repository by cloning this repository:
-```
-https://github.com/Jia-Wei-Liao/Nuclear_Dataset_Segmentation.git
-```
-
-
 ## Repository structure
       .
       ├──checkpoint
