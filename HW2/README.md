@@ -8,13 +8,6 @@ In this homework, we implement the deep learning method to detect the digits ima
 The Street View House Numbers (SVHN) Dataset is the most widely-used dataset fordeveloping machine learning and object recognition. It’s obtained from house numbersin Google Street View images. In this homework, we contains 33,402 training imagesand 13,068 test images in SVHN dataset and need to train a model to detect digits. The model should predict fast and precise on inference time.
 
 
-## Getting the code
-You can download all the files in this repository by cloning this repository:
-```
-https://github.com/Jia-Wei-Liao/SVHN_Dataset_Detection.git
-```
-
-
 ## File Structure
       .
       ├──FasterRCNN
