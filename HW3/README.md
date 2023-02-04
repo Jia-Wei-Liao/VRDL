@@ -43,8 +43,10 @@ detectron2
 
 ## Dataset
 #### 1. Download the dataset
-You can download the dataset on the Google Drive:  
-<https://drive.google.com/drive/folders/174K2gLqNqm2-m2MNHP4SZDbnx2L2JA4i?usp=sharing>
+Run the commend to download the dataset: 
+```
+bash download_dataset.sh
+```
 #### 2. Make training data annotations
 To make the annotations, you can run this command:
 ```
@@ -53,8 +55,10 @@ python make_annot.py
 
 
 ## Pre-trained weight
-You can download the weight and checkpoint of our model and config on the Google Drive:  
-<https://drive.google.com/drive/folders/1rA5ajCevldGvTrzBxEYrSHnJP9Mx_Dsu?usp=sharing>
+Run the commend to download the pre-trained weight: 
+```
+bash download_checkpoint.sh
+```
 
 ## Training
 To train the model, you can run this command:
