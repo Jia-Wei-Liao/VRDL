@@ -4,12 +4,6 @@
 ## Introduction of dataset
 In this task, the dataset contains 291 training images with hight-resolution images and 14 test images with low resolution images. The test images is come from Set14 dataset. Since we don't have low-resolution of training data, we should generate low-resolution training images with 3 scale by bicubic interpolation at the first, and then split the dataset to training set and validation set. At the inference step, we should generate the hight-resolution images and upload to the CodaLab.
 
-## Getting the code
-You can download all the files in this repository by cloning this repository:
-```
-https://github.com/Jia-Wei-Liao/Set14_Dataset_Super-Resolution.git
-```
-
 
 ## Repository structure
       .
