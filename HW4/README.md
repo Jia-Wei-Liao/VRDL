@@ -60,8 +60,10 @@ Notice that `prepare_dataset.py`, `split_train_val.py`, and `inference.py` are p
 
 
 ## Dataset
-You can download the dataset on the Google Drive:  
-https://drive.google.com/drive/folders/1akHIvXOUW0GieiRH0plqbrmQxXY_qp7R?usp=sharing
+Run the commend to download the dataset: 
+```
+bash download_dataset.sh
+```
 
 
 ## Data pre-processing
@@ -80,8 +82,10 @@ python prepare_dataset.py --mode {train, val} --dataset {train, val}_HR_data
 
 
 ## Pre-trained weight
-You can download the weight and checkpoint of our model and config on the Google Drive:  
-https://drive.google.com/drive/folders/1eXMP_kCC5LtV5vtrxu1dqQBvYP0OVqUK?usp=sharing
+Run the commend to download the pre-trained weight: 
+```
+bash download_checkpoint.sh
+```
 
 
 ## Training
