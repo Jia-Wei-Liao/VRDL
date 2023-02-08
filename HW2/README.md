@@ -109,11 +109,14 @@ The Street View House Numbers (SVHN) Dataset is the most widely-used dataset for
 
 
 ## Download
-- You can download the dataset on the Google Drive:  
-  - train: <https://drive.google.com/drive/folders/18jvQC966ovqfPn1nqW9YX1upIk8tJ6JF?usp=sharing>  
-  - test: <https://drive.google.com/drive/folders/144QsIJxOH0mLTcXkvn4RvV2IQSwMkzFX?usp=sharing>
-- You can download the weight on the Google Drive:  
-<https://drive.google.com/drive/folders/1BPxTCnvXPHck3hg5QOFD1xJlMDZplKfh?usp=sharing>  
+- You can run the following commend to download the dataset on the Google Drive:  
+```
+bash download_dataset.sh
+```
+- You can run the following commend to download the pre-trained weight on the Google Drive:  
+```
+bash download_checkpoint.sh
+```
 
 
 ## Training
