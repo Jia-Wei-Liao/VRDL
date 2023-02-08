@@ -108,5 +108,4 @@ If you find our work useful in your project, please cite:
 
 ## Reference
 [1] https://github.com/facebookresearch/detectron2  
-
 [2] https://detectron2.readthedocs.io/en/latest/tutorials/install.html 
